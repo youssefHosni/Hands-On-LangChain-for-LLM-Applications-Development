@@ -3,12 +3,17 @@ Practical LangChain tutorials for LLM applications development
 ![develop-llm-applications--with-langchain_1](https://github.com/youssefHosni/Hands-On-LangChain-for-LLM-Applications-Development/assets/72076328/2b396f34-552b-43ea-a3f6-3646644d56e2)
 
 
+## Retrieval Augmented Generation with LangChain ##
+
+![1_kSkeaXRvRzbJ9SrFZaMoOg](https://github.com/youssefHosni/Hands-On-LangChain-for-LLM-Applications-Development/assets/72076328/e0d38c15-7375-4526-9a5e-4ff383c76718)
+
 
 * Hands-On LangChain for LLM Applications Development: Documents Loading | [Article](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]()
 * Hands-On LangChain for LLM Applications Development: Documents Splitting Part 1 | [Article](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-2d6?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]()
 * Hands-On LangChain for LLM Applications Development: Documents Splitting Part 2 | [Article](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-96e?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]()
 * Hands-On LangChain for LLM Applications Development: Vector Database & Text Embeddings | [Article](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-943?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]()
 * Hands-On LangChain for LLM Applications Development: Information Retrieval | [Article](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-5fe?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]()
+* Hands-On LangChain for LLMs App: Answering Questions From Documents | [Article]() | [Code]()
 
 
 
