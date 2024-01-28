@@ -2,8 +2,10 @@
 Practical LangChain tutorials for LLM applications development 
 ![develop-llm-applications--with-langchain_1](https://github.com/youssefHosni/Hands-On-LangChain-for-LLM-Applications-Development/assets/72076328/2b396f34-552b-43ea-a3f6-3646644d56e2)
 
+## LangChain Basics ##
+* Hands-On LangChain for LLM Applications Development: Prompt Templates | [Article](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-5d9?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]()
 
-## Retrieval Augmented Generation with LangChain ##
+## Retrieval Augmented Generation (RAG) with LangChain ##
 
 ![1_kSkeaXRvRzbJ9SrFZaMoOg](https://github.com/youssefHosni/Hands-On-LangChain-for-LLM-Applications-Development/assets/72076328/e0d38c15-7375-4526-9a5e-4ff383c76718)
 
