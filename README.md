@@ -4,7 +4,7 @@ Practical LangChain tutorials for LLM applications development
 
 ## LangChain Basics ##
 * Hands-On LangChain for LLM Applications Development: Prompt Templates | [Article](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-5d9?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]()
-* Hands-On LangChain for LLM Applications Development: Output Parser | [Article]() | [Code]()
+* Hands-On LangChain for LLM Applications Development: Output Parsing | [Article]() | [Code]()
 
 
   --------------------------------------------------------
