@@ -8,7 +8,8 @@ Practical LangChain tutorials for LLM applications development
 * Hands-On LangChain for LLM Applications Development: Output Parsing | [Article](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-6dc?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]()
 * Hands-On LangChain for LLMs App: ChatBots Memory| [Article](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llms-app-chatbots?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]()
 * Hands-On LangChain for LLMs App Development: Chains | [Article](https://open.substack.com/pub/youssefh/p/understanding-langchain-chains-for?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]()
-* Hands-On LangChain for LLMs App: Evaluating LLM Applications | [Article]() | [Code]()
+* Hands-On LangChain for LLMs App: Evaluating LLM Applications | [Article](https://open.substack.com/pub/youssefh/p/evaluating-llm-applications-using?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]()
+
 
 
   --------------------------------------------------------
