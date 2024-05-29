@@ -26,4 +26,4 @@ Practical LangChain tutorials for LLM applications development
 ---------------------------------------------------------
 
 ## Advanced LangChain ##
-* Hands-On Introduction to Open AI Function Calling | [Article]() | [Code]()
+* Hands-On Introduction to Open AI Function Calling | [Article](https://open.substack.com/pub/youssefh/p/hands-on-introduction-to-open-ai?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]()
