@@ -22,6 +22,12 @@ Practical LangChain tutorials for LLM applications development
 * Hands-On LangChain for LLMs App: Answering Questions From Documents | [Article](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llms-app-answering?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]() 
 * Hands-On LangChain for LLMs App: Chat with Your Files | [Article](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llms-app-chat?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]()
 ---------------------------------------------------------
+## LLM Agent with LangGraph ## 
 
-## Advanced LangChain ##
+
+## Advanced LangChain with OpenAI ##
 * Hands-On Introduction to Open AI Function Calling | [Article](https://open.substack.com/pub/youssefh/p/hands-on-introduction-to-open-ai?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]()
+* LangChain Expression Language (LCEL) | [Article]() | [Code]()
+* Tagging and Extraction Using OpenAI functions | [Article]() | [Code]()
+* Tools and Routing using LangChain  | [Article]() | [Code]()
+* Conversational agent with LangChain | [Article]() | [Code]()
