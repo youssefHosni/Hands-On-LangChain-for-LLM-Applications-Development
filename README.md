@@ -22,8 +22,13 @@ Practical LangChain tutorials for LLM applications development
 * Hands-On LangChain for LLMs App: Answering Questions From Documents | [Article](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llms-app-answering?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]() 
 * Hands-On LangChain for LLMs App: Chat with Your Files | [Article](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llms-app-chat?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]()
 ---------------------------------------------------------
-## LLM Agent with LangGraph ## 
-
+## Building LLM Agents with LangGraph ## 
+* Building Simple ReAct Agent from Scratch | [Article]() | [Code]()
+* LangGraph Components | [Article]() | [Code]()
+* Agentic Search Tools | [Article]() | [Code]()
+* Persistence and Streaming | [Article]() | [Code]()
+* Human in the Loop | [Article]() | [Code]()
+* Building Essay Writer Agent | [Article]() | [Code]() 
 
 ## Advanced LangChain with OpenAI ##
 * Hands-On Introduction to Open AI Function Calling | [Article](https://open.substack.com/pub/youssefh/p/hands-on-introduction-to-open-ai?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]()
