@@ -17,6 +17,16 @@ Practical LangChain tutorials for LLM applications development
 * Hands-On LangChain for LLMs App: Evaluating LLM Applications | [Article](https://open.substack.com/pub/youssefh/p/evaluating-llm-applications-using?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code](https://www.kaggle.com/code/youssef19/evaluating-llm-applications-using-langchain)
 * Building LLM Agents Using LangChain & OpenAI API | [Article](https://medium.com/towards-artificial-intelligence/building-llm-agents-using-langchain-openai-api-cf3f8a1e5d76?sk=d39a2c188d092e1dfcfeaddf0f60aded) | [Code](https://www.kaggle.com/code/youssef19/building-llm-agents-using-langchain-openai-api)
 
+
+|Topic |Blog|Kaggle Notebook| Youtube Video |
+|-----|--------|----------|----------|
+|Hands-On LangChain for LLM Applications Development: Prompt Templates |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
+|Hands-On LangChain for LLM Applications Development: Output Parsing |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
+|Hands-On LangChain for LLMs App Development: Chains |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
+|Hands-On LangChain for LLMs App: ChatBots Memory |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
+|Hands-On LangChain for LLMs App: Evaluating LLM Applications |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
+|Building LLM Agents Using LangChain & OpenAI API |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
+
   --------------------------------------------------------
 
 ## Retrieval Augmented Generation (RAG) with LangChain ##
