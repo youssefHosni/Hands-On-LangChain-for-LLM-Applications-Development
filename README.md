@@ -47,8 +47,15 @@ Practical LangChain tutorials for LLM applications development
 
 
 ## Advanced LangChain with OpenAI ##
-* Hands-On Introduction to Open AI Function Calling | [Article](https://open.substack.com/pub/youssefh/p/hands-on-introduction-to-open-ai?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]()
-* LangChain Expression Language (LCEL) | [Article]() | [Code]()
-* Tagging and Extraction Using OpenAI functions | [Article]() | [Code]()
-* Tools and Routing using LangChain  | [Article]() | [Code]()
-* Conversational agent with LangChain | [Article]() | [Code]()
+|Topic |Blog|Kaggle Notebook| Youtube Video |
+|-----|--------|----------|----------|
+|Hands-On Introduction to Open AI Function Calling |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://open.substack.com/pub/youssefh/p/hands-on-introduction-to-open-ai?r=1sqbmi&utm_campaign=post&utm_medium=web) | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
+|LangChain Expression Language (LCEL) |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
+|Tagging and Extraction Using OpenAI functions |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
+|Tools and Routing using LangChain |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
+|Conversational agent with LangChain |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
+
+
+
+
+
