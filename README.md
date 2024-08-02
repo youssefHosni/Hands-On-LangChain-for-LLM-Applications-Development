@@ -1,5 +1,6 @@
 # Hands-On-LangChain-for-LLM-Applications-Development
 Practical LangChain tutorials for LLM applications development 
+
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://youssefh.substack.com/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yousefhosni)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/youssef19)
