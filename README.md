@@ -11,7 +11,7 @@ Practical LangChain tutorials for LLM applications development
 ## LangChain Basics ##
 
 
-|Topic |Blog| Notebook| Video Tutorial |
+| Topic | Blog | Notebook | Video Tutorial |
 |-----|--------|----------|----------|
 |Hands-On LangChain for LLM Applications Development: Prompt Templates |[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://medium.com/towards-artificial-intelligence/hands-on-langchain-for-llm-applications-development-prompt-templates-fb81450dcefe?sk=585a90124ebcfeb2277ec4f8121bb17b) | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/youssef19/langchain-prompt-templates)| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/5V64btczj9o?si=sYVdePu0__cPG_G9) |
 |Hands-On LangChain for LLM Applications Development: Output Parsing |[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://medium.com/towards-artificial-intelligence/hands-on-langchain-for-llm-applications-development-output-parsing-876354434462?sk=80376f6f6c0ab026149b49e8bb0efaaa) | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/youssef19/langchain-output-parsing)| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
@@ -25,7 +25,7 @@ Practical LangChain tutorials for LLM applications development
 
 ## Retrieval Augmented Generation (RAG) with LangChain ##
 
-|Topic |Blog|Kaggle Notebook| Youtube Video |
+| Topic | Blog | Notebook | Video Tutorial |
 |-----|--------|----------|----------|
 |Hands-On LangChain for LLM Applications Development: Documents Loading |[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://medium.com/towards-artificial-intelligence/hands-on-langchain-for-llm-applications-development-documents-loading-43d889644845?sk=c11bc86e7f1dc9da330ca9bc14d2aa5c) | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/youssef19/documents-loading-with-langchain)| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
 |Hands-On LangChain for LLM Applications Development: Documents Splitting Part 1  |[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://medium.com/towards-artificial-intelligence/hands-on-langchain-for-llm-applications-development-documents-splitting-part-1-57f544a62ecb?sk=a873c73e0ad8b031b3fb5f90278ffdf9) | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/youssef19/documents-splitting-with-langchain)| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
@@ -36,7 +36,7 @@ Practical LangChain tutorials for LLM applications development
 |Hands-On LangChain for LLMs App: Building RAG Application with LangChain |[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGFoWTNxZUNuUzY0WjVMV0tiMkFtZ2V2MVh0UXxBQ3Jtc0tuYi1ocF96ZTEwM3BBNFVBRDJzU1lZQWxsQzNfVUg3WUlYN3NwNXQyNjBaMXFUcVh4WVBpOVJkSHhJNlEteGhYREZWVHJXWHZnN3d3WXlhR2RSWnhHQy1XMHhjSUFocEZLQTZZN0Zjd3piQnVZOHFNaw&q=https%3A%2F%2Fcolab.research.google.com%2Fdrive%2F1ZPQOBQE-BH-eRrCD-bY0b71l_2KF-aTI%3Fusp%3Dsharing&v=EHCjY_GoG0w)| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/EHCjY_GoG0w?si=pSXHM9aC7RT7-qpb) |
 
 ## Advanced LangChain Techniques ##
-|Topic |Blog|Kaggle Notebook| Youtube Video |
+| Topic | Blog | Notebook | Video Tutorial |
 |-----|--------|----------|----------|
 |Hands-On Introduction to Open AI Function Calling |[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://open.substack.com/pub/youssefh/p/hands-on-introduction-to-open-ai?r=1sqbmi&utm_campaign=post&utm_medium=web) | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
 |LangChain Expression Language (LCEL) |[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
@@ -50,7 +50,7 @@ Practical LangChain tutorials for LLM applications development
 ---------------------------------------------------------
 ## Building LLM Agents with LangGraph ## 
 
- |Topic |Blog|Kaggle Notebook| Youtube Video |
+| Topic | Blog | Notebook | Video Tutorial |
 |-----|--------|----------|----------|
 |Introduction to LLM Agents & LangGraph |[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://open.substack.com/pub/youssefh/p/building-llm-agents-with-langgraph?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false) | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
 |Building Simple ReAct Agent from Scratch |[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://open.substack.com/pub/youssefh/p/building-llm-agents-with-langgraph-699?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false) | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
@@ -64,7 +64,7 @@ Practical LangChain tutorials for LLM applications development
 ---------------------------------------------------------
 ## Managing Agentic Memory with LangMem ## 
 
- |Topic |Blog|Kaggle Notebook| Youtube Video |
+| Topic | Blog | Notebook | Video Tutorial |
 |-----|--------|----------|----------|
 |Introduction to Agentic Meomery |[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
 |Building Baseline Writing Assistant Agent |[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
@@ -73,6 +73,10 @@ Practical LangChain tutorials for LLM applications development
 |Building Agent with Semantic, Episodic & Procedural Memory |[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
 
 
+---------------------------------------------------------
+## Getting Started with LangSmith ## 
+| Topic | Blog | Notebook | Video Tutorial |
+|-----|--------|----------|----------|
 
 
 
